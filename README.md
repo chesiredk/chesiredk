@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chesire Derrick
 - 👀 I love experimenting and creating
-- 🌱 I’m currently an undergrad in Computer Science
+- 🌱 I’m currently an undergrad in Computer Science/Cyber security
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me:  chesirederrick4@gmail.com
